@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  aveliz1384_TA-VGA-GT2026 aveliz1384 (
+  aveliz1384_TA_VGA_GT2026 aveliz1384 (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
