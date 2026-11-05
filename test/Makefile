@@ -6,7 +6,7 @@ SIM ?= icarus
 FST ?= -fst # Use more efficient FST format
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = aveliz1384_TA_VGA_GT2026.v hvsync_generator.v
+PROJECT_SOURCES = tt_um_aveliz1384_TA_VGA_GT2026.v hvsync_generator.v
 
 ifneq ($(GATES),yes)
 
