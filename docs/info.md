@@ -9,11 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project generates a VGA video signal that displays vertical RGB (Red, Green, and Blue) color bars on a monitor.
+The digital circuit generates the necessary VGA synchronization signals and controls the RGB outputs to produce vertical color bars across the screen.
 
 ## How to test
 
-Explain how to use your project
+1. Connect a VGA-compatible monitor to the chip's VGA output pins using the appropriate VGA connector and wiring.
+2. Power on the chip and the monitor.
+3. Verify that vertical RGB (Red, Green, and Blue) color bars appear on the screen.
+4. Check that the colors are displayed correctly and that the image remains stable.
 
 ## External hardware
 
